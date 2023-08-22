@@ -59,3 +59,8 @@ I started my installing all of the necesseary packages into eacch of the package
 server locally. Next, I created the service worked and installed the necessary packages for that to work and finally I edited the database, editor and install javascript files within the src
 directory.
 
+## Links
+
+Github Repo: https://github.com/Tiernan-97/PWA_Text_Editor
+Heroku Live Link: https://pwa-text-editor-tiernan-97-bea3c41fc316.herokuapp.com/
+
